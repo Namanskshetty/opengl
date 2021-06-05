@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/bin/bash
+figlet "welcome"
 pip install PyOpenGL
 pip install glfw
 pip install PyOpenGL
