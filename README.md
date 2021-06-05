@@ -6,11 +6,15 @@
    ```sh
    git clone https://github.com/Namanskshetty/opengl.git
    ```
-2. Give the executable permission to bin.sh file
+2. Go to folder
+   ```sh
+   cd opengl
+   ```
+3. Give the executable permission to bin.sh file
    ```sh
    chmod +x bin.sh
    ```
-3. Run python file
+4. Run python file
    ```sh
    python3 main.py
    ```
