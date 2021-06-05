@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-figlet "WELCOME"
 pip install PyOpenGL
 pip install glfw
 pip install PyOpenGL
