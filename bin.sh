@@ -1,10 +1,5 @@
 #!/usr/bin/python3
-echo "
- _  _  ____  __     ___  __   _  _  ____
-/ )( \(  __)(  )   / __)/  \ ( \/ )(  __)
-\ /\ / ) _) / (_/\( (__(  O )/ \/ \ ) _)
-(_/\_)(____)\____/ \___)\__/ \_)(_/(____)
-"
+figlet "WELCOME"
 pip install PyOpenGL
 pip install glfw
 pip install PyOpenGL
