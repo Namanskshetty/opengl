@@ -4,7 +4,7 @@
 ### Run OpenGL on your computer
 1. Clone the repo
    ```sh
-   git clone https://github.com/Namanskshetty/chatbot.git
+   git clone https://github.com/Namanskshetty/opengl.git
    ```
 2. Give the executable permission to bin.sh file
    ```sh
